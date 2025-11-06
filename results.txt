@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 Computer Name: ThinkPad_Nico
 Date of Test: 2025-11-06 15:33:16
 Bubble Sort Time: 4.840683 seconds
 Quick Sort Time: 0.011011 seconds
+=======
+Computer Name: MacBook-Pro-von-Elias.local
+Date of Test: 2025-11-06 15:17:00
+Bubble Sort Time: 3.343267 seconds
+Quick Sort Time: 0.009433 seconds
+>>>>>>> eda0275348a0acaf1335bd668960a7cbf2df4fce
 

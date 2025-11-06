@@ -1,0 +1,5 @@
+Computer Name: MacBook-Pro-von-Elias.local
+Date of Test: 2025-11-06 15:17:00
+Bubble Sort Time: 3.343267 seconds
+Quick Sort Time: 0.009433 seconds
+

@@ -1,0 +1,5 @@
+Computer Name: ThinkPad_Nico
+Date of Test: 2025-11-06 15:33:16
+Bubble Sort Time: 4.840683 seconds
+Quick Sort Time: 0.011011 seconds
+
